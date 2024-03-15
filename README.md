@@ -9,6 +9,6 @@
 
 Можаце карыстацца гэтым рэпазіторыям для дапрацоўкі файлаў гульні
 
-Калі захочацца дапрацаваць ці абнавіць лакалізацыю, раю скарыстацца [LSLib Toolkit](https://github.com/Norbyte/lslib/releases): трэба разархіваваць мой файл і потым канвертаваць .loca файл у .xml
+Калі захочацца дапрацаваць ці абнавіць лакалізацыю, раю скарыстацца [LSLib Toolkit](https://github.com/Norbyte/lslib/releases): трэба канвертаваць кожны .xml файл у .loca і канвертаваць тэчку ў .pak архіў.
 
 [Пераклад на nexusmods](https://www.nexusmods.com/baldursgate3/mods/7207)
