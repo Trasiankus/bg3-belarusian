@@ -1,2 +1,12 @@
 __pycache__/
 *.pyc
+
+# music and built mods stay local - never commit them
+*.wem
+*.wav
+*.mp3
+*.opus
+*.ogg
+*.flac
+*.pak
+*.zip
