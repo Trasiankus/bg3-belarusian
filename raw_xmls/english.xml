@@ -548,7 +548,7 @@
 	<content contentuid="h00ad4110g05c2g4670ga040gfc83664b069d" version="5">Знаходзячыся ў &lt;LSTag Type="Status" Tooltip="RAGE"&gt;ярасці&lt;/LSTag&gt;, вы можаце выкарыстоўваць &lt;LSTag Type="Spell" Tooltip="Projectile_DivingStrike"&gt;«Удар у падзенні»&lt;/LSTag&gt;.&lt;br&gt; &lt;br&gt;Супернікі атрымліваюць &lt;LSTag Tooltip="Disadvantage"&gt;перашкоду&lt;/LSTag&gt; пры &lt;LSTag Tooltip="OpportunityAttack"&gt;пазачарговых нападах&lt;/LSTag&gt; супраць вас, а вы можаце здзяйсняць &lt;LSTag Type="Spell" Tooltip=" Shout_Dash"&gt;рывок&lt;/LSTag&gt; у якасці бонуснага дзеяння.</content>
 	<content contentuid="h00ad4f4eg6e21g42ebgb64eg0c08349a55b7" version="5">Ффіёна кудысьці знікла. Дзіўна, табе не падаецца?</content>
 	<content contentuid="h00ad6c2egc5abg438fga00eg8b022ea6cff8" version="3">Мы мусім яго знайсці. Ён нам ці дапаможа, ці чэрапа выявіць. А можа, і тое, і другое.</content>
-	<content contentuid="h00ae60a6g5c20g4593g9014geeffb6e9cb6b" version="1">Слых у выслізгваюць звяроў востры. Яна таксама чула цябе. Забі і яе.</content>
+	<content contentuid="h00ae60a6g5c20g4593g9014geeffb6e9cb6b" version="1">Слых у змешчазвяроў востры. Яна таксама чула цябе. Забі і яе.</content>
 	<content contentuid="h00aef1c4g54f6g4cb1g9093gff7d9895d2d8" version="1">Будзем спадзявацца.</content>
 	<content contentuid="h00af3194geebdg484egae88g1fd30e097290" version="2">*Хруп-хруп, - костачкі трашчаць, а яшчэ ніжэй храбусцяць старыя аскепкі.*</content>
 	<content contentuid="h00af3623gf0a4g4df2g9291g751d78abfabd" version="2">Я разумею.</content>
@@ -1924,7 +1924,7 @@
 	<content contentuid="h0265f08fgac89g4630g8e9dg4803fbacc3d8" version="1">&lt;i&gt;Распавесці тое, што табе ўдалося даведацца пра Таніэла ў Царстве Ценяў.&lt;/i&gt;</content>
 	<content contentuid="h0265f64bg9551g4db7g932cgd76b6cf37f05" version="1">Гэта вельмі незвычайна... але ў той жа час прыгожа.</content>
 	<content contentuid="h0266028cg0ebbg41ecg9cbfgb96e332ac6dc" version="1">Галоўнае, што мы выбраліся жывымі. І ты таксама, наколькі я магу меркаваць.</content>
-	<content contentuid="h026635a1gee0bg4facg8528gac69786e5e7a" version="1">Ці не падзелішся ты са мной тым зеллем, якім зачароўваеш свайго выслізгвалага звера?</content>
+	<content contentuid="h026635a1gee0bg4facg8528gac69786e5e7a" version="1">Ці не падзелішся ты са мной тым зеллем, якім зачароўваеш свайго змешчазвера?</content>
 	<content contentuid="h026670edg85d5g4abcgb1d4g85888159f01a" version="3">Як думаеш, з якога ўзросту дзіця трэба навучаць баявым мастацтвам?</content>
 	<content contentuid="h02668506g0d7eg485aga613g2850bb13567a" version="2">Ты прымаў іншыя формы, акрамя Рафаэля?</content>
 	<content contentuid="h02669b3egd54cg4240gb47egdf95de283199" version="1">Хопіць шчокі раздзімаць, навастры лепш свае вушкі. У цябе новае даручэнне.</content>
@@ -19652,7 +19652,7 @@
 	<content contentuid="h177660e3ga634g4d21gb7bfgfa4aea3b6b9c" version="1">&lt;i&gt;Паспрабаваць пранікнуць у думкі Мізоры.&lt;/i&gt;</content>
 	<content contentuid="h17766b93gca20g4ce7gb564g85d8084d24ec" version="2">І прынясі молат. Спадзяюся, ты яго не ўпусціў. Спадзяюся, ты яго не страціў.</content>
 	<content contentuid="h1776d1f2g5437g427bg82bcg26a6d5641c08" version="2">Спадзяюся, ты ведаеш, што робіш. Табе раней даводзілася расчароўваць дзіця?</content>
-	<content contentuid="h1777539eg4cdag44acg9214ga7a3e90f3222" version="3">Форма выслізгвалага звера</content>
+	<content contentuid="h1777539eg4cdag44acg9214ga7a3e90f3222" version="3">Форма змешчазвера</content>
 	<content contentuid="h1777a6dcg9109g49ddg85ecg052a83c6bb5e" version="4">Уцякай, яшчарка, пакуль я табе хвост не адрубіў.</content>
 	<content contentuid="h1777cf6cg4df6g49b5ga264g6538918e4879" version="3">Настойка для гаення дробных парэзаў і сінякоў.</content>
 	<content contentuid="h1777f114g890ag4766gb7a8g4d77e4350832" version="1">Цыганка</content>
@@ -23485,7 +23485,7 @@
 	<content contentuid="h1bf16e84g164fg463cgadd2g7d74cda47ba8" version="1">Добра, гэта ўсё роўна. Клянуся святлом месяца і ззяннем зорак, я рады цябе бачыць... і я столькі ўсяго хачу расказаць табе!</content>
 	<content contentuid="h1bf1e590g7790g41eeg817fgc34edd7e9c49" version="1">Улічы, калі яны прыйдуць за мной, то і табе не паздаровіцца. </content>
 	<content contentuid="h1bf21815g1f3dg437egb7b6g83ab7eb00c48" version="2">Я пайду туды, куды захачу.</content>
-	<content contentuid="h1bf218fegf1d2g47e5ga9a5g1eeb4f9456a5" version="3">*Ты не бачыш паблізу нічога, што магло б задаволіць жаданні выслізгвальнага звера.*</content>
+	<content contentuid="h1bf218fegf1d2g47e5ga9a5g1eeb4f9456a5" version="3">*Ты не бачыш паблізу нічога, што магло б задаволіць жаданні змешчазвера.*</content>
 	<content contentuid="h1bf226cag13bfg4c51g9207g4ce8075514a7" version="1">Але для пачатку... а ты-то як, чараўнік?</content>
 	<content contentuid="h1bf25e3bg198fg465bgb0ebg3de4703d3492" version="1">Паўторна накласці сурокі (сіла)</content>
 	<content contentuid="h1bf29daeg0eccg47d1g8af2g6fb47f8b3ad1" version="7">Ты ж паняцця не маеш, хто я такі, праўда? Я спадзяваўся, што Звялы хоць трохі падрыхтуе глебу.</content>
@@ -23652,7 +23652,7 @@
 	<content contentuid="h1c26c619g1a22g4912g9947gdefc0273b375" version="2">Не ведаю дакладна, але ўдар лютняй па чэрапе даволі лёгка зваліць языкатага эльфа.</content>
 	<content contentuid="h1c26ffc1g46acg4030g883fg97012aaee20d" version="1">Ад гэтага віна ты не прачнешся з галаўным болем — ты наогул не прачнешся. Гэта яд.</content>
 	<content contentuid="h1c278dadg8809g4a06g912dgf84a5f10736a" version="1">Гулец 1</content>
-	<content contentuid="h1c2876afg8584g409bgbfefg3ff46043d1f0" version="1">Зрушальны звер</content>
+	<content contentuid="h1c2876afg8584g409bgbfefg3ff46043d1f0" version="1">Змешчазвер</content>
 	<content contentuid="h1c2888f7g6f2fg4335g86b0gdef1cca82857" version="2">Ведаеш, калі гэты паразіт табе не па гусце, я з радасцю з'ем яго замест цябе.</content>
 	<content contentuid="h1c28dba3gc7efg43efg98a5g3b78bae80fac" version="2">*Асабліва калі на тваім боку будзе Клінок Авернуса.*</content>
 	<content contentuid="h1c2919c3g59ceg415bg8692g346790960b98" version="1">Дазволіце нам паразмаўляць з ім. Калі ласка. Калі б ён толькі —</content>
@@ -29490,7 +29490,7 @@
 	<content contentuid="h22fbea4age1c9g4f75ga382gd13e591dd956" version="1">Хм. Рабізна-карой, калі высеяць яе як след, можна прахарчаваць цэлы пасёлак.</content>
 	<content contentuid="h22fbeb91g266bg47d9gb10agad8bdbe6b23e" version="1">Скажы мне: сябар ты ці ежа? І няхай Яе знак стане меркай ісціны! Адкрый мне, ці ёсць на табе кляймо Абсалют?</content>
 	<content contentuid="h22fc0224gb136g4405gbda7g91569d4df362" version="1">Цяжкая галава гэтага сталёвага маргенштэрна жудасна пакрылася іржой.</content>
-	<content contentuid="h22fc4033gf4a8g423dg9388g0eb8a1f18c75" version="3">Твая прыяцелька, звер-змяшчальнік, здаецца, таксама была апантаная ідэяй забіць усіх.</content>
+	<content contentuid="h22fc4033gf4a8g423dg9388g0eb8a1f18c75" version="3">Твая прыяцелька, змешчазвер, здаецца, таксама была апантаная ідэяй забіць усіх.</content>
 	<content contentuid="h22fc7c12gcbcdg4963gb378g3d1acdaf8eb1" version="1">Гэта адразу шмат. Інкубатар, навучальны лагер, прытулак.</content>
 	<content contentuid="h22fcda12g4f9cg4147gba45g3b2b2ae5fda4" version="1">((*Пасля смерці твой вораг стане тваім саюзнікам. Я падыму яго, а ты зможаш ім кіраваць.*))</content>
 	<content contentuid="h22fd9901gbb8dg44dbg8cb1ge3f1d0ea3d34" version="2">Ты мусіць ведаеш шмат гісторый... але, магчыма, іншым разам.</content>
@@ -32958,7 +32958,7 @@
 	<content contentuid="h270f7106g6753g449fga24cgdf46a0952496" version="1">Не спяшайся, вазьмі столькі часу, колькі трэба.</content>
 	<content contentuid="h270fe77ega90eg44aeg98d5gf2a538a83cf4" version="3">*У пацука густая поўсць і цёмныя, нерухомыя вочы. Ён стары, але выглядае здаровым.*</content>
 	<content contentuid="h271032c8ge17ag4f83g9b39g005438bafa0c" version="3">Дакладайце. Як праходзіў бой?</content>
-	<content contentuid="h27106506g9563g44cdg8602gaf994ce0076d" version="2">*Гэты мерэгон прычароўвае змяшчальнага звера па загадзе ортана. У яго ёсць зеллі, каб кантраляваць паводзіны звера.*</content>
+	<content contentuid="h27106506g9563g44cdg8602gaf994ce0076d" version="2">*Гэты мерэгон прычароўвае змешчазвера па загадзе ортана. У яго ёсць зеллі, каб кантраляваць паводзіны звера.*</content>
 	<content contentuid="h2710bfc2gb490g42b2g931ag60c0fe1af9b1" version="1">Добра. Пачакай тут, пакуль усё не завершыцца.</content>
 	<content contentuid="h27114bfdgbea0g4020g85dbg4407cf6ca2ab" version="2">Шэдаўхарт загінула. Уваскрэсіць яе мы не зможам.</content>
 	<content contentuid="h271156a8g87efg4080ga177g95c1ce1bd621" version="4">&lt;i&gt;Яго сіла была крыніцай тваёй пастаяннай абароны ад голасу Абсалют — яна здольная парушаць сувязь калектыўнага розуму.&lt;/i&gt;</content>
@@ -40924,7 +40924,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h30669de2g3a23g469cg8359g10675942279a" version="1">Нам можа спатрэбіцца моц такога артэфакта. Асабліва калі яе можна звярнуць супраць Кетэрыка.</content>
 	<content contentuid="h3066d5f5g37c0g4d6agadc8g4d3c7b020359" version="1">&lt;i&gt;Што?!&lt;/i&gt;</content>
 	<content contentuid="h3066f557g6be6g4b00g9941g6147f9334ad6" version="2">&lt;i&gt;Мы шукаем новых саюзнікаў для нашай справы — гітзераяў. Разам мы будзем нястрымнай сілай.&lt;/i&gt;</content>
-	<content contentuid="h3067514ag4f15g4c5dga224gad678eb3f0b3" version="1">Поўсць змяшчальнага звера насычана ілюзорнай магіяй, здольнай праламляць святло, што дазваляе яму праецыраваць уласныя копіі і станавіцца нябачным. Прыгоднікі кажуць, што ты ніколі не даведаешся сапраўднае месцазнаходжанне змяшчальнага звера, пакуль яго кіпцюры не ўвап'юцца табе ў жывот.</content>
+	<content contentuid="h3067514ag4f15g4c5dga224gad678eb3f0b3" version="1">Поўсць змешчазвера насычана ілюзорнай магіяй, здольнай праламляць святло, што дазваляе яму праецыраваць уласныя копіі і станавіцца нябачным. Прыгоднікі кажуць, што ты ніколі не даведаешся сапраўднае месцазнаходжанне змешчазвера, пакуль яго кіпцюры не ўвап'юцца табе ў жывот.</content>
 	<content contentuid="h306762adg58c6g4a42gb412g4fc4ebec6ed0" version="3">---&lt;b&gt;&lt;i&gt;ЭВАКУАЦЫЯ&lt;/i&gt;---&lt;/b&gt;</content>
 	<content contentuid="h3067f26cgf5a8g4a48g9e9bgea8742f30b28" version="1">&lt;i&gt;Чым ты займаўся з нашай апошняй сустрэчы?&lt;/i&gt;</content>
 	<content contentuid="h3068006eg7e00g4fb1g936fge7aad3c5b756" version="1">У друкарні «Весніка». Хоць яна ў Ніжнім горадзе, таму табе спачатку давядзецца неяк прайсці праз вароты.</content>
@@ -65593,7 +65593,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h4d28c85bg9ed6g4e23g8a8eg06f20df6ee51" version="1">Можа, менавіта так гэтыя кальмаравыя вырадкі цябе і ловяць. Дадаюць табе імпэту, а потым выбухаюць у тваім чэрапе, калі ты найменш гэтага чакаеш.</content>
 	<content contentuid="h4d28f1b3g3fb8g48d6ga015g7f6ef4a6ba7f" version="2">Жанчына</content>
 	<content contentuid="h4d2a7066g55e6g4286g845fg5e302aca8f65" version="4">Я не хачу заводзіць звычку гутарыць са сваім забойцам, таму буду кароткі.</content>
-	<content contentuid="h4d2a8973gb697g4794g9786g6a85270cb181" version="2">Выслізгвальны звер</content>
+	<content contentuid="h4d2a8973gb697g4794g9786g6a85270cb181" version="2">Змешчазвер</content>
 	<content contentuid="h4d2adc9bg774ag43degb16fgf145c06e2407" version="3">Усё атрымалася. Выдатна!</content>
 	<content contentuid="h4d2b2f93ga423g4d45g89bbg0fc8617bd988" version="1">Баюся, што артыкул 30.1.7 абвяшчае, што гарантыі, якія маюць рэлігійную ці духоўную прыроду, не могуць залічвацца ў якасці сродкаў да існавання. </content>
 	<content contentuid="h4d2c9a57g0d15g42b6g9ed7g83373aa5768a" version="1">Упусці мяне, або я пераламлю цябе напалам.</content>
@@ -66887,7 +66887,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h4eadfd09g988fg4e35g9501gf28d567c1aee" version="2">Здаецца, мне абчысцілі кішэні...</content>
 	<content contentuid="h4eae07f7gfccfg46d6g8a6age2fc28735c3a" version="1">Слухай, Боргус, гэты шпік мне ў мазгі ўлез. Цяпер атрымае як след!</content>
 	<content contentuid="h4eae31edg7bd8g4360g9f56g522b5368cc6f" version="1">Згорнутыя крылы</content>
-	<content contentuid="h4eaebbf0g50e9g4c08g9e88g0bbd171adc30" version="2">Аблічча выслізгвае звера</content>
+	<content contentuid="h4eaebbf0g50e9g4c08g9e88g0bbd171adc30" version="2">Аблічча змешчазвера</content>
 	<content contentuid="h4eaecb58g304dg408cgb53dgeace16e82a98" version="1">Няма крыніцы.</content>
 	<content contentuid="h4eaf39c1g6319g42aaga94bgdc97635a2fbe" version="1">Я хачу далучыцца да цябе, змагацца бок аб бок з табой. Я хачу дапамагаць іншым - як ты дапамог мне.</content>
 	<content contentuid="h4eaf5c90gbc6cg4864g8701g155af88776af" version="4">Ахаваць саюзніка. Ён атрымлівае &lt;LSTag Tooltip="Resistant"&gt;устойлівасць&lt;/LSTag&gt; да ўсіх відаў страт, а таксама бонус +[1] да свайго &lt;LSTag Tooltip="ArmourClass"&gt;класа брані&lt;/LSTag&gt; і &lt;LSTag Tooltip="SavingThrow"&gt;выратавальных кідкоў&lt;/LSTag&gt;. Кожны раз, калі саюзнік атрымлівае страты, вы атрымліваеце столькі ж страт.</content>
@@ -68399,7 +68399,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h5080b8e3ga980g473agb92ega4f2bd9a62c5" version="1">Трымай астральную прызму пры сабе. Нікому яе не аддавай. Забі любога, хто паспрабуе яе адабраць.</content>
 	<content contentuid="h508198a8gf1c4g4199g9e6dg4caeec948da6" version="1">Уключыць аўтаматычнае даданне паходняў і іншых крыніц святла на панэль хуткага доступу пры атрыманні. </content>
 	<content contentuid="h5081d990g4818g41dbgbbd8g30ce35f34f68" version="3">Не зважай на іх. Хутчэй за ўсё, пакуль я тут, табе нічога не пагражае.</content>
-	<content contentuid="h50825fb4g9c1ag4146g9efeg7164023ebf01" version="4">Стварыць ілюзорнага звера-выслізніка, каб &lt;LSTag Type="Spell" Tooltip="Target_Tentacle_DisplacerBeast"&gt;атакаваць&lt;/LSTag&gt; найбліжэйшых ворагаў.</content>
+	<content contentuid="h50825fb4g9c1ag4146g9efeg7164023ebf01" version="4">Стварыць ілюзорнага змешчазвера, каб &lt;LSTag Type="Spell" Tooltip="Target_Tentacle_DisplacerBeast"&gt;атакаваць&lt;/LSTag&gt; найбліжэйшых ворагаў.</content>
 	<content contentuid="h508286acg84f7g4976g9833g9751fb0c20f5" version="2">Гэта, магчыма, наш шанец, спадар.</content>
 	<content contentuid="h5082b6c9g56e7g4192gb92bgc0efc64ea610" version="1">&lt;i&gt;Сысці.&lt;/i&gt;</content>
 	<content contentuid="h5082c30agb686g407cg96abg5474ce6891d8" version="2">Вялікая дубіна</content>
@@ -73838,7 +73838,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h56f2a03ag053ag4441gba11gfb7b178938d8" version="1">Можа, мне проста запісацца ў Палымяны Кулак і атрымаць бонус за ўступленне? Што яшчэ мне застаецца?</content>
 	<content contentuid="h56f37c7ege812g4cd9gb408g6ff033971e66" version="1">Молаты</content>
 	<content contentuid="h56f3ddd2g8ab9g4ec1g972eg4ff4a87c10cf" version="1">&lt;i&gt;Нават не ведаю... а ты не спрабавала імі жангляваць?&lt;/i&gt;</content>
-	<content contentuid="h56f3e623gf1c2g441bgbe08g6bf57aa22550" version="1">Істота прыняла падобнае на тагасветную пантэру аблічча выслізгвалага звера.</content>
+	<content contentuid="h56f3e623gf1c2g441bgbe08g6bf57aa22550" version="1">Істота прыняла падобнае на тагасветную пантэру аблічча змешчазвера.</content>
 	<content contentuid="h56f42d31g987bg43beg94c8gff970c102cf4" version="1">У ідэале — назаўжды. І ты занадта шмат на сябе бярэш, мяркуючы пра тое, што я магу і чаго не магу расказваць.</content>
 	<content contentuid="h56f46f73g3f5dg4f6fgb249g14a6dacb4903" version="1">Якія яшчэ пеклы. Не ведаю, да чаго ты хіліш, але адкажы на пытанне. Што ты там рабіў?</content>
 	<content contentuid="h56f51d89gcce1g4c17ga1b8g1ce42d198637" version="1">Не злуйся — калі захочаш, можаш чысціць боты Нячыстаму забойцу!</content>
@@ -82896,7 +82896,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h61c4651ag40cbg4ed2g92eaga9b43e7e42c1" version="1">Калі ў носьбіта застаецца 50% &lt;LSTag Tooltip="HitPoints"&gt;ачкоў здароўя&lt;/LSTag&gt; ці менш, ён наносіць дадаткова [1].</content>
 	<content contentuid="h61c47cadgd1a5g45e6g9d69ga1e7a852e8be" version="1">Устань перад Кетэрыкам разам са мной.</content>
 	<content contentuid="h61c4dba7g4746g4f58g943cg9a15a7f05632" version="1">&lt;i&gt;Табе, я гляджу, пашанцавала яшчэ больш.&lt;/i&gt;</content>
-	<content contentuid="h61c50985g3381g4f4cg821egffceb2a33c87" version="3">Драпка нагадваў мне майго першага выслізгвалага звера. Высакароднае стварэнне.</content>
+	<content contentuid="h61c50985g3381g4f4cg821egffceb2a33c87" version="3">Драпка нагадваў мне майго першага змешчазвера. Высакароднае стварэнне.</content>
 	<content contentuid="h61c51728g6f3ag4cb5g88d3g50daf15ba218" version="1">*Золата дапамагло табе выблытацца з непрыемнасцяў, але наступным разам так ужо не павязе.*</content>
 	<content contentuid="h61c51a16g1bdfg4cafg9e89gc42f7ea99c51" version="1">Дык вось, я ў артэфакце. Цяпер трэба знайсці зняволенага тут палоннага.</content>
 	<content contentuid="h61c5246ag3091g43fdga6e8gc723b482de9f" version="2">Вось мы і сустрэліся зноў. На гэты раз, спадзяюся, абыдземся без непатрэбнай жорсткасці.</content>
@@ -93260,7 +93260,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h6dc8cac5gf0e4g42a0gbd17ga58b2e825b2c" version="1">Цяпер на цябе дзейнічае цёмны праклён?</content>
 	<content contentuid="h6dc8ce15g3f43g4239g8c30g3bc168e4b1df" version="3">Э-э-э... добрая кіса?</content>
 	<content contentuid="h6dc91b25g2f14g4c33gb637g5cb134b7f06a" version="4">Пра гэта сведчыць іх рэпутацыя — асабліва сярод добрага люду Глыбокаводдзя. Мне цікава даведацца, як ты перайшоў ім дарогу...</content>
-	<content contentuid="h6dc93705g6284g4164gbb66gc0db1ffc02ae" version="2">Адкінуць форму выслізгвалага звера</content>
+	<content contentuid="h6dc93705g6284g4164gbb66gc0db1ffc02ae" version="2">Адкінуць форму змешчазвера</content>
 	<content contentuid="h6dc957dcg8d1cg4c79ga6e6g6fb4eacea0dd" version="1">А што наконт Зэўлара? Яго супляменнікі змогуць застацца?</content>
 	<content contentuid="h6dc97cafg6cf1g4b28g8dd0g3ecc271b2ffc" version="3">Мы наклікалі на сябе гнеў Умберлі. Думаю, у найбліжэйшай будучыні нам варта ўстрымацца ад марскіх падарожжаў.</content>
 	<content contentuid="h6dcb3bbdg252dg419ag9cb1g1b49523b905c" version="1">*Усёй сваёй істотай ты прагнеш пакончыць з ёй. Згуба вёскі прынясе табе цёмную славу — ты амаль адчуваеш яе смак.*</content>
@@ -93768,7 +93768,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h6e66f716gf1afg4294g8bfagf618864db266" version="2">Магічная артылерыя Рамазіта гатова граміць тваіх і маіх ворагаў. Толькі дай знак - і ты гэта ўбачыш. </content>
 	<content contentuid="h6e670370gb005g4a4fg8cddge297a73eff09" version="2">Шэдаўхарт накінулася на нас.</content>
 	<content contentuid="h6e672575g691fg483dgb535g0e1fb9107bac" version="1">Ага, вось гэтым я дакладна не буду займацца.</content>
-	<content contentuid="h6e680b31g0f55g434cgbcdfg41e43e79b459" version="2">Так, вядома. А я тады звер, які выслізгвае.</content>
+	<content contentuid="h6e680b31g0f55g434cgbcdfg41e43e79b459" version="2">Так, вядома. А я тады змешчазвер.</content>
 	<content contentuid="h6e683a59g4c10g4a3fg92c4g14ee6b76c5f0" version="1">А я вось спадзяюся, што не сустрэнем.</content>
 	<content contentuid="h6e684d8cg6290g4d0ag80d3ga85ffe222565" version="2">Пакажы, што ў цябе ёсць на продаж.</content>
 	<content contentuid="h6e6877bagf09ag41bbga19agba09571d0110" version="1">Мінск сустракаў нямала вампіраў, але яшчэ не бачыў такіх, чые ўсмешкі не хавалі б здрадлівых іклоў. Але... табе лепш відаць.</content>
@@ -110249,7 +110249,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h815497e1g3067g4b9egb505ge1ee8e3f7aab" version="1">Заклік фамільяра: павук</content>
 	<content contentuid="h815519e2g1a74g4015g96bdg2527961ede2b" version="2">Ваш максімум ачкоў здароўя павялічваецца на 2 за кожны атрыманы ўзровень.</content>
 	<content contentuid="h81555448g7a63g48d0g9da7g67d388ebddad" version="1">А я дам. Ён зусім страціў баявы дух.</content>
-	<content contentuid="h81555ff7g3d00g4de6g86d8gde222fa55a36" version="1">Гэта толькі пачатак: звер, які выслізгвае, таксама цябе чуе, ці не так? Забі яе таксама.</content>
+	<content contentuid="h81555ff7g3d00g4de6g86d8gde222fa55a36" version="1">Гэта толькі пачатак: змешчазвер таксама цябе чуе, ці не так? Забі яе таксама.</content>
 	<content contentuid="h81556c0egecb8g4d2bg80dbg57c07c52d5e1" version="1">Неахайнік Лірон</content>
 	<content contentuid="h8155711agff2cg43aag87bcgf4af7332cfcf" version="1">Слаўна! Я зраблю ўсё магчымае, каб аддаць належнае яго жорсткасці.</content>
 	<content contentuid="h81557b88g8840g4b7ag9caagc59ccfd65e84" version="2">Прыемна бачыць гэтыя камяні заплямленымі крывёю той, хто зганьбіла майго Бацьку.</content>
@@ -130172,7 +130172,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="h98a5d7c3geffbg4d32g8805g66c5494597b0" version="1">Бронзавы цмок і эльф-мараход. Можа быць, гэта... Балдуран?</content>
 	<content contentuid="h98a5f901g4edeg472ag8e99g04f3e2ad0ffa" version="1">Бочка з солевым растворам</content>
 	<content contentuid="h98a5fb5age329g410eg8a87gab12c583769f" version="1">Кашмар які! Як ты можаш так спакойна гэта казаць?</content>
-	<content contentuid="h98a62a45g345cg4475g95abg0fe741f1798a" version="1">Звер-зрушальнік</content>
+	<content contentuid="h98a62a45g345cg4475g95abg0fe741f1798a" version="1">Змешчазвер</content>
 	<content contentuid="h98a63bcegfd31g4e58gb418gc45ed19e5093" version="1">Думаю, мяне ўсё роўна сюды з жалю паставілі.</content>
 	<content contentuid="h98a6fb13gac41g4a9eg82afgec0f4d099c3e" version="2">О багі, я адчуваю іх вакол сябе! &lt;i&gt;Прывіды!&lt;/i&gt; Быццам нейкі жудасны, слізкі ветрык!</content>
 	<content contentuid="h98a74ec6gbd3fg4995g8815g91354c35383b" version="1">Якія мы сёння дзёрзкія. Табе гэта зусім не да твару.</content>
@@ -154683,7 +154683,7 @@ FSR павялічвае частату кадраў, выкарыстоўваю
 	<content contentuid="hb54ae4bag078eg4f28g9f7cg476121a7d65a" version="1">Я заўсёды лічыў яго разумным. Закахаўшыся ў цябе, ён давёў гэта без ценю сумневу.</content>
 	<content contentuid="hb54b5170g67c7g4cfeg9e10g44cd8248594d" version="1">Салага, ці што? Па выглядзе - салага. Дробна... драбнаваты. Для гобліна. Ты таму не ведаеш, так?</content>
 	<content contentuid="hb54b5409gd17ag4984g8653g083f6a6b380c" version="1">У гэтым горадзе здараліся і больш дзіўныя рэчы. </content>
-	<content contentuid="hb54b5b13g5895g43f8ga8b1g5086d20670b0" version="3">Што гэта за істота? Мне спачатку здалося, да нас прыблудзілася кацяня выслізгвалага звера.</content>
+	<content contentuid="hb54b5b13g5895g43f8ga8b1g5086d20670b0" version="3">Што гэта за істота? Мне спачатку здалося, да нас прыблудзілася змешчакацяня.</content>
 	<content contentuid="hb54b6127g67c9g4391ga832gb3c4bfa1d9b4" version="2">Адзін раз да наступнага &lt;LSTag Tooltip="ShortRest"&gt;кароткага адпачынку&lt;/LSTag&gt;, калі істота знаходзіцца ў &lt;LSTag Type="Status" Tooltip="RAGE"&gt;лютасці&lt;/LSTag&gt; і ў яе застаецца [1] &lt;LSTag Tooltip="HitPoints"&gt;АЗ&lt;/LSTag&gt;, яна не апыняецца &lt;LSTag Type="Status" Tooltip="DOWNED"&gt;пры смерці&lt;/LSTag&gt;, а аднаўляе [2].</content>
 	<content contentuid="hb54b62f3g9528g466cg9db8g80db590642e3" version="5">Справа не толькі ў забойстве Стэлміны - ва ўсім гэтым замяшаны сам Баал.</content>
 	<content contentuid="hb54b8fedgb4a6g4c8bga5e6geb34a0a967fa" version="2">Іх можна навучыць. Вялікія воіны пачыналі з малога.</content>
@@ -159141,7 +159141,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hba57826fgdb7cg40d3gadfcg97c4059ad091" version="2">І гэта азначае, што мы з табой разам адправімся ў новую прыгоду.</content>
 	<content contentuid="hba57bfa1g46eag4819ga977g79b487cbb919" version="1">У нас &lt;i&gt;памінкі&lt;/i&gt;.</content>
 	<content contentuid="hba585380g77b9g4f66g80cagf7c4d228aaef" version="1">*Іншыя пакланяюцца драконавай багіні Тыямат і хочуць заклікаць яе ў Фаэрун.*</content>
-	<content contentuid="hba585a5ag85c6g44eagb86cg5c1e401be0e0" version="1">*Гэты мерэгон зачароўвае зрушальнага звера для свайго гаспадара. Ён мае зеллі, каб кантраляваць паводзіны пачвары.*</content>
+	<content contentuid="hba585a5ag85c6g44eagb86cg5c1e401be0e0" version="1">*Гэты мерэгон зачароўвае змешчазвера для свайго гаспадара. Ён мае зеллі, каб кантраляваць паводзіны пачвары.*</content>
 	<content contentuid="hba58fc62gc713g4991g80d9gd7c73d1f1e52" version="3">Затое я ведаю, што варта яму адабраць у мяне хоць кавалак зямлі, дык там хутка пачынае распаўсюджвацца культ Абсалют.</content>
 	<content contentuid="hba593a88gfafag4d02g9876ga5c7ef7c642d" version="1">Ужо валішся з ног? Ты што, пракляты гном?</content>
 	<content contentuid="hba593d89gb98fg4392gbdc8gd27ee8c46d72" version="3">&lt;i&gt;Сысці.&lt;/i&gt;</content>
@@ -160598,7 +160598,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hbc0ed289gc669g4f29g80a5gf9fed3e580d7" version="2">Якога д'ябла, Астарыён?.. Ты мяне ўкусіў!</content>
 	<content contentuid="hbc0f1b7fgc563g4950g8515gaf515b848cfe" version="2">Паглядзі, ці зможаш знайсці грыбы-&lt;i&gt;айслінгі&lt;/i&gt;. Гэта была б &lt;i&gt;сапраўдная&lt;/i&gt; вечарына.</content>
 	<content contentuid="hbc0f286eg1564g44cbg9d53gf2b2bc083e9d" version="2">Стыхійная эпоха</content>
-	<content contentuid="hbc0f411ega60fg47ceg8f34gc97fd73350e1" version="3">Ператварыцца ў выслізгвальнага звера, які здольны &lt;LSTag Type="Spell" Tooltip="Teleportation_Displacement_DisplacerBeast"&gt;змяшчаць&lt;/LSTag&gt; сябе і ворагаў і мае «[1]».</content>
+	<content contentuid="hbc0f411ega60fg47ceg8f34gc97fd73350e1" version="3">Ператварыцца ў змешчазвера, які здольны &lt;LSTag Type="Spell" Tooltip="Teleportation_Displacement_DisplacerBeast"&gt;змяшчаць&lt;/LSTag&gt; сябе і ворагаў і мае «[1]».</content>
 	<content contentuid="hbc0f416bg63cag4068gb522g19861e251738" version="2">Амфігорыя Міфа Драннана</content>
 	<content contentuid="hbc0f9f89ge691g4a6dgb443g923bdd5a1d4d" version="1">Я нікому не кланяюся, чараўнік, і ты ад мяне гэтага не дачакаешся. Мы разам перамаглі Абсалют. Мы з табой роўныя.</content>
 	<content contentuid="hbc0fde79g06ecg4c12g9b4ag871124607518" version="1">У мяне ёсць праект, які трэба завяршыць, а &lt;i&gt;ты&lt;/i&gt; — надта ўнікальны экзэмпляр, каб рызыкаваць табой.</content>
@@ -165865,7 +165865,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hc2341f8fg204ag4708g9c60g4993f1b40fd3" version="2">Усё скончана. Гэта трэба было зрабіць. Астарыён... зусім страціў кантроль. Багі, &lt;i&gt;пракляцце.&lt;/i&gt;</content>
 	<content contentuid="hc2344cd6g7e48g463dg9ba3g111c52c45732" version="1">&lt;i&gt;Але трывожна, што нешта магло вось так умяшацца, асабліва калі мы ўжо так блізка да Старэйшага Мозгу.&lt;/i&gt;</content>
 	<content contentuid="hc2347ffbg5d78g40edgb6d4ge78d67cbd13f" version="1">Паходня</content>
-	<content contentuid="hc234e586g5f99g4e11g86b4g9d63882d7ebb" version="3">*Глыбіні якіх яшчэ асалод ты даследуеш? Выслізгвальных звяроў? Варгаў? Паўзуноў-падальшчыкаў?*</content>
+	<content contentuid="hc234e586g5f99g4e11g86b4g9d63882d7ebb" version="3">*Глыбіні якіх яшчэ асалод ты даследуеш? Змешчазвяроў? Варгаў? Паўзуноў-падальшчыкаў?*</content>
 	<content contentuid="hc234f0bbg05c6g43b5gbc2bg43e7e2f43aad" version="1">Калі мне спатрэбіцца гаварыць з падобнымі да цябе, я сам загавару. Прэч. </content>
 	<content contentuid="hc2353396ga6a5g4a0ag9deagccc308edb1a0" version="1">Гэты падмоклы, але ўсё яшчэ чытальны ліст утрымлівае нешчаслівае прызнанне ў каханні.</content>
 	<content contentuid="hc236aa50g5cc9g4a3fg995ag6bf9d5c33895" version="2">&lt;i&gt;Пайсці наперад насуперак разумнаму сэнсу.&lt;/i&gt;</content>
@@ -169371,7 +169371,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hc63c3243gacfbg4d97gafaege2f9ad968aba" version="2">Толькі калі я не дабяруся да яго першым.</content>
 	<content contentuid="hc63d1203ge96fg43a3ga054gcfef9e32dbc8" version="1">Не чаго, а &lt;i&gt;каго&lt;/i&gt;. Але ўсяму свой час.</content>
 	<content contentuid="hc63d9f27g2165g44a0g8ddfgf43bc062bc98" version="1">Калі яна вернецца, я пырну яе сваім нажом для бульбы. Моцна. Больш яна мяне не забярэ.</content>
-	<content contentuid="hc63da46dg1eb2g44e8gb0eegc3775c2b9c67" version="3">*Гэта выслізгвальны звер — самотны і &lt;i&gt;ручны&lt;/i&gt;.*</content>
+	<content contentuid="hc63da46dg1eb2g44e8gb0eegc3775c2b9c67" version="3">*Гэта змешчазвер — самотны і &lt;i&gt;ручны&lt;/i&gt;.*</content>
 	<content contentuid="hc63dd1bbg79dag4124g8e50gaf0d90ef2659" version="1">У мяне шмат чаго ёсць на продаж, калі ты гэтага варты.</content>
 	<content contentuid="hc63e3154g57e8g498fga78fga1bbe07a5090" version="1">Паміж намі даўно нешта адбываецца. Сувязь, больш чым проста сяброўская... Я разумела гэта, але нічога не рабіла.</content>
 	<content contentuid="hc63e32fdg0da8g4883g81a9g429854ff8ced" version="1">Заклікаў — плаці. Такая дамова.</content>
@@ -175785,7 +175785,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hcda4103egb352g4ffbgad4dg5b649025f6a6" version="1">&lt;i&gt;Вельмі на гэта спадзяюся — толькі ўяві, прайсці праз увесь гэты клопат з узнясеннем, каб выглядаць нягегла.&lt;/i&gt;</content>
 	<content contentuid="hcda4bceag2140g4cd7gb68dgc122f4a3530a" version="5">Гаворка ідзе ўжо не толькі пра нас з табой. Гэта куды больш, чым проста мы.</content>
 	<content contentuid="hcda4c10eg4eacg4aedgbe5dg6a02d0150e24" version="2">На каго ты працавала?</content>
-	<content contentuid="hcda4fb21g60efg4f9dg87aaga31a964f6efe" version="2">Вы набываеце атрыбуты выслізгвальнага звера, але захоўваеце свае паказчыкі &lt;LSTag Tooltip="Intelligence"&gt;інтэлекту&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;мудрасці&lt;/LSTag&gt; і &lt;LSTag Tooltip="Charisma"&gt;харызмы&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Калі колькасць &lt;LSTag Tooltip="HitPoints"&gt;ачкоў здароўя&lt;/LSTag&gt; вашага аблічча выслізгвальнага звера падае да [1], вы вяртаецеся ў сваё ранейшае аблічча.</content>
+	<content contentuid="hcda4fb21g60efg4f9dg87aaga31a964f6efe" version="2">Вы набываеце атрыбуты змешчазвера, але захоўваеце свае паказчыкі &lt;LSTag Tooltip="Intelligence"&gt;інтэлекту&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;мудрасці&lt;/LSTag&gt; і &lt;LSTag Tooltip="Charisma"&gt;харызмы&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Калі колькасць &lt;LSTag Tooltip="HitPoints"&gt;ачкоў здароўя&lt;/LSTag&gt; вашага аблічча змешчазвера падае да [1], вы вяртаецеся ў сваё ранейшае аблічча.</content>
 	<content contentuid="hcda5fabbgab2bg44b1gb493g01c0765f3d36" version="1">Мудры выбар. Якая карысць з ваяра, якога прагналі з поля бою?</content>
 	<content contentuid="hcda60c96gb82eg4496gbfcag8b165615016f" version="1">Паўэльф</content>
 	<content contentuid="hcda66568ge795g4471g90d6g5569ff333ccf" version="2">Дзякуючы свайму значнаму мінуламу ў якасці пешкі ў вялікіх ваенных гульнях вы атрымалі &lt;LSTag Tooltip="Proficiency"&gt;валоданне&lt;/LSTag&gt; &lt;LSTag Tooltip="Athletics"&gt;атлетыкай&lt;/LSTag&gt; і &lt;LSTag Tooltip="Intimidation"&gt;запалохваннем&lt;/LSTag&gt;.</content>
@@ -176230,7 +176230,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hce280aaag3a21g44f4g8076g9e5084933c3c" version="1">[1] трапіць, калі набярэ [3]. Выпала: [2].</content>
 	<content contentuid="hce282a8dgf760g47cdg9284g91a5495cd6f1" version="1">«Шмоткі Кармі»</content>
 	<content contentuid="hce28c145geadeg4119gbd81g55600c4fbe63" version="1">Што ж. Чаму б табе не пайсці пагутарыць з іншымі? Гэта ж так называецца, праўда? «Пагутарыць»?</content>
-	<content contentuid="hce28ee10gc41dg460dgb1ddgfee13b15fd7e" version="1">І ты сам зачароўваеш свайго звера-змяшчальніка?</content>
+	<content contentuid="hce28ee10gc41dg460dgb1ddgfee13b15fd7e" version="1">І ты сам зачароўваеш свайго змешчазвера?</content>
 	<content contentuid="hce2917a2ge7f4g4209ga79egbfe4d95ca9df" version="1">Імем уладаркі маёй клянуся.</content>
 	<content contentuid="hce293c99g58e7g48dbg92acg71fe8cb4661d" version="2">Чаго ты больш за ўсё баялася?</content>
 	<content contentuid="hce295efbg9486g43bbg8602gb6d5b07d855c" version="4">Вельмі ласкава з твайго боку, шаноўны. Наступную жаласную эльфійскую баладу я прысвячу табе — падобна, яна табе спадабаецца.</content>
@@ -177361,7 +177361,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hcf6d727bgfee5g4c1eg858egc46ac386a63e" version="1">Што за рытуал вас абараняе?</content>
 	<content contentuid="hcf6d7d6fg9fe1g46e9gbf25g8522247c4e8a" version="1">А ты іх усіх да мяне пасылай. Я хутка ім мазгі ўкручу на месца.</content>
 	<content contentuid="hcf6d83e7g6da7g4fcag9de5g8b0f7c822ae8" version="1">Гіцьянкі! Яе трэба забіць, зараз жа!</content>
-	<content contentuid="hcf6da17ag9ba8g4a16ga538g48bcb3ad5658" version="2">Колькі ампутацый можа перажыць індывід? Для гэтага досведу мы ўзялі дравука, чалавека, гнома і выслізгвальнага звера. Як і чакалася, даўжэй за ўсіх пратрымаўся дравук: у момант смерці канечнасцей у яго не засталося. Выслізгвальны звер заняў другое месца — мяркуючы па ўсім, страта шчупальцаў для яго не такая страшная. Чалавек і гном крычалі ў агоніі пасля выдалення адной толькі канечнасці і памерлі ад страты крыві неўзабаве пасля выдалення другой. Гном пры гэтым толькі крыху абышоў чалавека.</content>
+	<content contentuid="hcf6da17ag9ba8g4a16ga538g48bcb3ad5658" version="2">Колькі ампутацый можа перажыць індывід? Для гэтага досведу мы ўзялі дравука, чалавека, гнома і змешчазвера. Як і чакалася, даўжэй за ўсіх пратрымаўся дравук: у момант смерці канечнасцей у яго не засталося. Змешчазвер заняў другое месца — мяркуючы па ўсім, страта шчупальцаў для яго не такая страшная. Чалавек і гном крычалі ў агоніі пасля выдалення адной толькі канечнасці і памерлі ад страты крыві неўзабаве пасля выдалення другой. Гном пры гэтым толькі крыху абышоў чалавека.</content>
 	<content contentuid="hcf6dde96gd3cbg4352gaf5eg7e02cd82378c" version="1">Ты жывеш дзеля сілы. Ты даказаў гэта кожным палеглым ворагам, кожнай адкрытай скрыняй і кожным здабытым навыкам.</content>
 	<content contentuid="hcf6e7e0bg0b39g4770gba15gb278a5f1f47b" version="2">Калі цябе трэба пагладзіць па галаве і пачасаць за вушамі - звярніся да Мінска, ён не адмовіць. Бу яго выдатна выдрэсіраваў.</content>
 	<content contentuid="hcf6ecd9agdd62g431egbc5dg823b5e80b00f" version="2">Дыск заварушыўся. Навошта хадзіць, калі можна пракаціцца?</content>
@@ -178145,7 +178145,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hd05b2706g7de5g428ag8580g09a401b0894c" version="1">Жароўня</content>
 	<content contentuid="hd05b3d52g589eg4400ga5f7g3e68cf47ad4e" version="2">Глядзі, Бу! Такія руіны, такія пячоры! Для цябе тут было б выдатнае логава.</content>
 	<content contentuid="hd05b4ab5g4949g4dc6g9c0fgf88a2a6edfd2" version="1">&lt;i&gt;*Уздых.*&lt;/i&gt; Што ж, мяркую, пакуль хопіць і гэтага. Але давай без таямніц, якія нясуць немінучую смерць або знішчэнне мне, табе... ды ўвогуле і каму заўгодна іншаму.</content>
-	<content contentuid="hd05b617cg1b41g4489g8291g033099d41c95" version="2">Хусткі на лодыжкі&lt;br&gt;Галстукі-матылі&lt;br&gt;Панамы - можа выглядаць стыльна? Плашчы са скуры выслізгвае звера - складана дастаць па-за цыркам Каўняры Жылеты-тандэм адразу на дваіх? </content>
+	<content contentuid="hd05b617cg1b41g4489g8291g033099d41c95" version="2">Хусткі на лодыжкі&lt;br&gt;Галстукі-матылі&lt;br&gt;Панамы - можа выглядаць стыльна? Плашчы са скуры змешчазвера - складана дастаць па-за цыркам Каўняры Жылеты-тандэм адразу на дваіх? </content>
 	<content contentuid="hd05b9da4ge270g4b6dga91ag6baa241706f8" version="1">Ты думаеш, што мае субраты злыя, але твая ўпэўненасць грунтуецца толькі на прадузятасці.</content>
 	<content contentuid="hd05ba26agba67g44fegbd30g3f8f30148312" version="1">Раскажы мне пра ўсё, і я заб'ю Этэль, даю слова.</content>
 	<content contentuid="hd05bcb84gb8c1g44adg8ab8g3675f8436340" version="3">*Труп, падобна, не прочкі пагаварыць... вось толькі не з уласным забойцам.*</content>
@@ -180808,7 +180808,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hd37d21a8gc440g4ba5g8a9cgcd6c0aa7db81" version="2">Ты вагаешся. Калі ты не будзеш змагацца за маё дабраслаўленне, я зраблю з цябе нешта больш жорсткае. Годную ахвяру для ўзнясення майго сына.</content>
 	<content contentuid="hd37d2fcbg7f98g4598g9b25gd980d0f4a038" version="1">Прашу цябе... ты не ведаеш, што можна зрабіць?</content>
 	<content contentuid="hd37d3141ge69bg4604g9e47g7bde884eba76" version="1">Мне падавалася, гэта ўжо ўсім даўно відавочна.</content>
-	<content contentuid="hd37e5ca5gf674g4516g86dega5abeeb6c7f0" version="2">Адкінуць форму выслізгальнага звера і прыняць сваё зыходнае аблічча.</content>
+	<content contentuid="hd37e5ca5gf674g4516g86dega5abeeb6c7f0" version="2">Адкінуць форму змешчазвера і прыняць сваё зыходнае аблічча.</content>
 	<content contentuid="hd37eb13fg1b3fg4e9dg8634g02a176ad4e13" version="2">Багі... ты думаеш, яны іх пасякуць і прадаваць стануць? Я вельмі спадзяюся, што не.</content>
 	<content contentuid="hd37ece4ag512dg41c4gbbbbg09fe1a32fe62" version="3">Святары Джэргала і Огмы аб'явілі аб завяршэнні пасмяротнай аўтабіяграфіі святой Веціры</content>
 	<content contentuid="hd37ef80dgc682g4cdbgaadeg56c43435d0af" version="1">*Труп безжыццёва глядзіць на цябе.*</content>
@@ -184383,7 +184383,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hd7c40ddegfcaeg4677g80bdg100f1df5bfee" version="1">Ха. Ну не ведаю ўжо, чым ты нам можаш тут дапамагчы.</content>
 	<content contentuid="hd7c4798eg355fg415fgab3bgd5ecd9d570df" version="2">За Міркула, уладара касцей!</content>
 	<content contentuid="hd7c52f50gfea9g484fgac32g5ce62234b31c" version="2">Сталёвая варта. Ваша гадзіна надышла!</content>
-	<content contentuid="hd7c5bc84g8990g4a5bg843agac0c90c84216" version="2">Вызначыць прычыну апантанасці выслізгвальнага звера.</content>
+	<content contentuid="hd7c5bc84g8990g4a5bg843agac0c90c84216" version="2">Вызначыць прычыну апантанасці змешчазвера.</content>
 	<content contentuid="hd7c611d4g13a0g493eg9690gfc6905ad0360" version="2">&lt;i&gt;Атакаваць.&lt;/i&gt;</content>
 	<content contentuid="hd7c62568g768fg4f9cgb78agabb5d41c84a1" version="2">Што такое?</content>
 	<content contentuid="hd7c63228g8a10g4380g94c1gbcd379c92b0b" version="2">Мяне клічуць [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53]. Прыемна пазнаёміцца.</content>
@@ -188055,7 +188055,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hdc22ad54g83ecg4ec1gbe70g58d3fc522e33" version="1">Хісткая статуя</content>
 	<content contentuid="hdc22d0f6g2cfdg4ff6gab9dg19427c7f15b8" version="1">Заўсёды буду табе радая.</content>
 	<content contentuid="hdc2327d2ge0cdg43b5g9e9bg35119d1e327c" version="1">«Орфеус сабраў ганаровую варту Гіт і заявіў аб сваіх правах на трон. Пачалася Вайна Каметы».</content>
-	<content contentuid="hdc23657fgd9e6g41c5ga9edgdc3b330e7104" version="1">Глядзі! Там выслізгвае звер! Хутчэй за ім! </content>
+	<content contentuid="hdc23657fgd9e6g41c5ga9edgdc3b330e7104" version="1">Глядзі! Там змешчазвер! Хутчэй за ім! </content>
 	<content contentuid="hdc23b802g9181g4925g8049gf2fe41a03b2e" version="3">Астарыён! Ты мяне &lt;i&gt;ўкусіў&lt;/i&gt;! Ты... &lt;i&gt;вампірыў&lt;/i&gt;... ты вампір!</content>
 	<content contentuid="hdc244456g2bbcg4d6cg9ed7g106414207df2" version="1">Разарваны мяшок з рагожы</content>
 	<content contentuid="hdc247db0g6358g4272gb039g7b2cd1fda383" version="1">Што загадаеш рабіць далей, спадар?</content>
@@ -205141,7 +205141,7 @@ Larian Studios пакідае за сабой права па сваім адн�
 	<content contentuid="hf02330b3g3b68g40dbg80d4g493af12e7293" version="1">Я заўсёды гатовы вучыцца, але толькі не катаванням.</content>
 	<content contentuid="hf0233d43ga40eg4b47g917bg82b5cd96c572" version="1">Ах ты брыдота! Вярні мне яго!</content>
 	<content contentuid="hf024059bgac3bg440egbe69g26f422599533" version="1">&lt;i&gt;І? Як атрымліваецца?&lt;/i&gt;</content>
-	<content contentuid="hf0240e4cgafb9g4d72gb0f3gcc455a16e403" version="1">Зелле, якое вараць мерэгоны для зачаравання выслізгвальных звяроў. Гэтая партыя, здаецца, слабейшая і можа толькі затуманіць розум.</content>
+	<content contentuid="hf0240e4cgafb9g4d72gb0f3gcc455a16e403" version="1">Зелле, якое вараць мерэгоны для зачаравання змешчазвяроў. Гэтая партыя, здаецца, слабейшая і можа толькі затуманіць розум.</content>
 	<content contentuid="hf0244ab7g1c86g462bga652gb5592fe2f3b2" version="1">Тут мой бацька, Карлак. Пагасі свой агонь. Ён не павінен пацярпець.</content>
 	<content contentuid="hf0247456g801eg48bfga96fg0aac438ae3cc" version="1">А гэтыя парыі — яны гатовыя змагацца за Абсалют?</content>
 	<content contentuid="hf024818bg32dag4ffbg97a5ga9deacd64ef6" version="2">Хронікі народа гур</content>
