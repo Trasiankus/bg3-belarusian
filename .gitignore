@@ -10,3 +10,6 @@ __pycache__/
 *.flac
 *.pak
 *.zip
+
+# dictionaries for the spellcheck (copied from wow-forever, ~160 MB) - local only
+ext/
